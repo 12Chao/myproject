@@ -1,1 +1,1 @@
-This is a repo to save image for GSoC 2019 posts
+This is a repo to capstone project for Data Incubator
